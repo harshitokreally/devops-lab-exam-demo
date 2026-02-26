@@ -1,4 +1,4 @@
-from app import add, factorial
+from app import factorial
 
 def test_factorial():
     # Test case to verify the correctness of the application [cite: 14]
